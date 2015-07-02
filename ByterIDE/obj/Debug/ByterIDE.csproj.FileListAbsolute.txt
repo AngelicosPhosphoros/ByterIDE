@@ -1,0 +1,14 @@
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\bin\Debug\ByterIDE.exe.config
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\bin\Debug\ByterIDE.exe
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\bin\Debug\ByterIDE.pdb
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\obj\Debug\ByterIDE.csprojResolveAssemblyReference.cache
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\obj\Debug\ByterIDE.Properties.Resources.resources
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\obj\Debug\ByterIDE.csproj.GenerateResource.Cache
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\obj\Debug\ByterIDE.exe
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\obj\Debug\ByterIDE.pdb
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\obj\Debug\ByterIDE.MainForm.resources
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\bin\Debug\CompilerLib.dll
+E:\Programs\University\CourseWork\CourseProject\ByterIDE\bin\Debug\CompilerLib.pdb
+E:\Programs\University\CourseWork\CourseProject\bin\ByterIDE.exe.config
+E:\Programs\University\CourseWork\CourseProject\bin\ByterIDE.exe
+E:\Programs\University\CourseWork\CourseProject\bin\ByterIDE.pdb

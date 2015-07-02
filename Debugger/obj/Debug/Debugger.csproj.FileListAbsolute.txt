@@ -1,0 +1,15 @@
+E:\Programs\University\CourseWork\CourseProject\Debugger\bin\Debug\Debugger.exe.config
+E:\Programs\University\CourseWork\CourseProject\Debugger\obj\Debug\Debugger.csprojResolveAssemblyReference.cache
+E:\Programs\University\CourseWork\CourseProject\Debugger\obj\Debug\Debugger.DebugForm.resources
+E:\Programs\University\CourseWork\CourseProject\Debugger\obj\Debug\Debugger.OutputForm.resources
+E:\Programs\University\CourseWork\CourseProject\Debugger\obj\Debug\Debugger.Properties.Resources.resources
+E:\Programs\University\CourseWork\CourseProject\Debugger\obj\Debug\Debugger.csproj.GenerateResource.Cache
+E:\Programs\University\CourseWork\CourseProject\Debugger\bin\Debug\Debugger.exe
+E:\Programs\University\CourseWork\CourseProject\Debugger\bin\Debug\Debugger.pdb
+E:\Programs\University\CourseWork\CourseProject\Debugger\bin\Debug\CompilerLib.dll
+E:\Programs\University\CourseWork\CourseProject\Debugger\bin\Debug\CompilerLib.pdb
+E:\Programs\University\CourseWork\CourseProject\Debugger\obj\Debug\Debugger.exe
+E:\Programs\University\CourseWork\CourseProject\Debugger\obj\Debug\Debugger.pdb
+E:\Programs\University\CourseWork\CourseProject\bin\Debugger.exe.config
+E:\Programs\University\CourseWork\CourseProject\bin\Debugger.exe
+E:\Programs\University\CourseWork\CourseProject\bin\Debugger.pdb

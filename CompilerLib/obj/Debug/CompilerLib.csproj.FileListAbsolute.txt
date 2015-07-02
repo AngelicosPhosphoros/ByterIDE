@@ -1,0 +1,7 @@
+E:\Programs\University\CourseWork\CourseProject\CompilerLib\bin\Debug\CompilerLib.dll
+E:\Programs\University\CourseWork\CourseProject\CompilerLib\bin\Debug\CompilerLib.pdb
+E:\Programs\University\CourseWork\CourseProject\CompilerLib\obj\Debug\CompilerLib.dll
+E:\Programs\University\CourseWork\CourseProject\CompilerLib\obj\Debug\CompilerLib.pdb
+E:\Programs\University\CourseWork\CourseProject\bin\CompilerLib.dll
+E:\Programs\University\CourseWork\CourseProject\bin\CompilerLib.pdb
+E:\Programs\University\CourseWork\CourseProject\CompilerLib\obj\Debug\CompilerLib.csprojResolveAssemblyReference.cache

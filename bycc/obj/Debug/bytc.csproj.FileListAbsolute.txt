@@ -1,0 +1,11 @@
+E:\Programs\University\CourseWork\CourseProject\bycc\bin\Debug\bycc.exe.config
+E:\Programs\University\CourseWork\CourseProject\bycc\bin\Debug\bycc.exe
+E:\Programs\University\CourseWork\CourseProject\bycc\bin\Debug\bycc.pdb
+E:\Programs\University\CourseWork\CourseProject\bycc\bin\Debug\CompilerLib.dll
+E:\Programs\University\CourseWork\CourseProject\bycc\bin\Debug\CompilerLib.pdb
+E:\Programs\University\CourseWork\CourseProject\bycc\obj\Debug\bytc.csprojResolveAssemblyReference.cache
+E:\Programs\University\CourseWork\CourseProject\bin\bytc.exe.config
+E:\Programs\University\CourseWork\CourseProject\bin\bytc.exe
+E:\Programs\University\CourseWork\CourseProject\bin\bytc.pdb
+E:\Programs\University\CourseWork\CourseProject\bycc\obj\Debug\bytc.exe
+E:\Programs\University\CourseWork\CourseProject\bycc\obj\Debug\bytc.pdb
