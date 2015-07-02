@@ -1,0 +1,2 @@
+# ByterIDE
+This is IDE for esoterical language Byter. esolangs.org/wiki/Byter After opening(or creating) the project in IDE, you can find 1 DataGridView with code on left side of tab, 1 textbox for code in right and 1 text box for comment in bottom. You can open every module by using list of modules in right side of window. You can compile project by console, using bytc.exe or by main program. To compile by console, you need to write bytc.exe . To compile by GUI, you need to open project in ByterIDE and press button "Compile".
